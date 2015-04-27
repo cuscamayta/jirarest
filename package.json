@@ -1,6 +1,6 @@
 {
   "name": "jira-rest-api",
-  "version": "0.1.3",
+  "version": "0.1.1",
   "description": "A sample Node.js app using Express 4",
   "main": "app.js",
   "scripts": {
