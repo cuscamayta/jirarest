@@ -1,0 +1,7 @@
+{
+  "name": "Jira Rest API",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/cuscamayta/jirarest.git",
+  "logo": "https://github.com/cuscamayta/jirarest/node.svg",
+  "keywords": ["node", "express", "static"]
+}
